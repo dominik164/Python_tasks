@@ -1,0 +1,42 @@
+import json
+
+file = open('data_base.json')
+data_js = json.load(file)
+
+def write_data(none=0):
+    with open('data_base.json', 'w') as file:
+        json.dump(data_js, file, indent=4)
+
+def print_json():
+    for x in data_js['Battles']:
+        print(x)
+
+def json_function():
+    print("1.Display \n2.Add new data \n3.Delete data")
+    tmp = int(input())
+
+    if tmp == 1:
+        print_json()
+        
+    elif tmp == 2:
+        battle = input("Battle: ")
+        year = input("Year: ")
+        new_data = {
+            "Battle": battle,
+            "Year": year,
+        }
+        temp = data_js['Battles']
+        temp.append(new_data)
+        write_data(data_js)
+        print("New data: ", new_data)
+
+    elif tmp == 3:
+        delete_data = input("Which Battle do you want delete? ")
+        for i in data_js['Battles']:
+            if i['Battle'] == str(delete_data):
+                del i['Battle']
+                del i['Year']
+                write_data(data_js)
+
+if(__name__ == "__main__"):
+    json_function()

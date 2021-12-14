@@ -1,0 +1,6 @@
+The smooth breathing (Ancient Greek:     psil n pne ma; Modern Greek:   psil ; Latin: sp ritus l nis) is a diacritical mark used in polytonic orthography. In ancient Greek, it marks the absence of the voiceless glottal fricative /h/ from the beginning of a word.
+Some authorities have interpreted it as representing a glottal stop, but a final vowel at the end of a word is regularly elided (removed) where the following word starts with a vowel   and elision would not happen if the second word began with a glottal stop (or any form of stop consonant). In his Vox Graeca, W. Sidney Allen accordingly regards the glottal stop interpretation as "highly improbable".
+The smooth breathing (   ) is written as on top of one initial vowel, on top of the second vowel of a diphthong, or to the left of a capital, and also in certain editions on the first of a pair of rhos. It did not occur on an initial upsilon, which always has rough breathing (thus the early name   hy, rather than   y).
+The smooth breathing was kept in the traditional polytonic orthography even after the /h/ sound had disappeared from the language in Hellenistic times. It has been dropped in the modern monotonic orthography.
+
+

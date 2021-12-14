@@ -1,0 +1,14 @@
+<students>
+    <student idx = "1">
+        <fname>Dominik</fname>
+        <lname>Buszta</lname>
+    </student>
+    <student idx = "2">
+        <fname>Ala</fname>
+        <lname>Kowalski</lname>
+    </student>
+    <student idx = "3">
+        <fname>Patryk</fname>
+        <lname>Nik</lname>
+    </student>
+</students>

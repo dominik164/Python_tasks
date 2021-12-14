@@ -1,0 +1,20 @@
+{
+    "Battles": [
+        {
+            "Battle": "Grundwald",
+            "Year": "1410"
+        },
+        {
+            "Battle": "Pawia",
+            "Year": "1525"
+        },
+        {
+            "Battle": "Berlin",
+            "Year": "1945"
+        },
+        {
+            "Battle": "Austerliz",
+            "Year": "1805"
+        }
+    ]
+}
